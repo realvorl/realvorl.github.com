@@ -23950,7 +23950,7 @@ G:function(a){var t=null,s="Certificate of achievement.",r="linkedIn",q="Februar
 m=S.cB(t,t,t,m,t,t,C.B)
 m=M.a5(t,L.aA("Certification".toUpperCase(),t,t,l),t,t,m,t,t,t,t,t,800)
 n=this.c
-return M.jc(M.a5(t,T.bQ(H.b([n,R.ip(s,"January 2020","Google - Flutter","Flutter Certificate"),n,R.ip(s,"July 2019","Microsoft","OpenHack - DevOps"),n,R.ip("Credential ID BAA4D8",q,r,"Java for Data Scientists Essential Training"),n,R.ip("Credential ID 9279F3",q,r,"Understanding SSH"),n,R.ip("Credential ID 8EC0C2","January 2017",r,"Creating RESTful Spring Boot Microservices with JPA"),n,R.ip("Credential ID A23C75",p,r,"Docker: essentials."),n,R.ip("Credential ID 3C544E",p,r,"Multitasking at the Command Line"),n,R.ip("One Week - Training","September 2015","neusta consulting GmbH","Hybrice Commerce 5.5")],u.p),C.w,C.x),t,t,t,t,t,t,t,t,800),m,!1)}}
+return M.jc(M.a5(t,T.bQ(H.b([n,R.ip(s,"January 2020","Google - Flutter","Flutter Certificate"),n,R.ip(s,"July 2019","Microsoft","OpenHack - DevOps"),n,R.ip("Credential ID BAA4D8",q,r,"Java for Data Scientists Essential Training"),n,R.ip("Credential ID 9279F3",q,r,"Understanding SSH"),n,R.ip("Credential ID 8EC0C2","January 2017",r,"Creating RESTful Spring Boot Microservices with JPA"),n,R.ip("Credential ID A23C75",p,r,"Docker: essentials."),n,R.ip("Credential ID 3C544E",p,r,"Multitasking at the Command Line"),n,R.ip("One Week - Training","September 2015","neusta consulting GmbH","Hybris Commerce 5.5")],u.p),C.w,C.x),t,t,t,t,t,t,t,t,800),m,!1)}}
 Y.uL.prototype={
 G:function(a){var t=null,s="Universitatea Politehnica din Timisoara",r=K.ad(a),q=r.a_.c.r,p=r.e,o=A.b1(t,p,t,t,t,t,t,t,t,t,t,q,t,C.be,t,t,!0,t,t,t,t,t,t)
 p=S.cB(t,t,t,p,t,t,C.B)
